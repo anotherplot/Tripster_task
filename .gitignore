@@ -1,0 +1,8 @@
+
+*.bin
+*.xml
+*.class
+*.MF
+*.iml
+*.properties
+*.lock
