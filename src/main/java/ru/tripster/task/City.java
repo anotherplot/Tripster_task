@@ -13,19 +13,10 @@ public class City {
         return fullname;
     }
 
-    public void setFullname(String fullname) {
-        this.fullname = fullname;
-
-    }
-
     private String fullname;
 
     public String getShortname() {
         return shortname;
-    }
-
-    public void setShortname(String shortname) {
-        this.shortname = shortname;
     }
 
 
